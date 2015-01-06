@@ -14,7 +14,7 @@ umschalten kann. Daher wird da wohl noch etwas Code dazu drin landen.
 
 ## Mehr Informationen?
 Benutze die SFF-Spezifikationen:
-[Datenblatt des PCA9544A](http://www.nxp.com/documents/data_sheet/PCA9544A.pdf) (ist auf dem Twingigconverter enthalten)
-[SFP Transceiver Spezifikation](ftp://ftp.seagate.com/sff/INF-8074.PDF)
-[SFP+ Transceiver Spezifikation](ftp://ftp.seagate.com/sff/SFF-8431.PDF)
-[Spezifikation des Diagnoseinterface](ftp://ftp.seagate.com/sff/SFF-8472.PDF)
+* [Datenblatt des PCA9544A](http://www.nxp.com/documents/data_sheet/PCA9544A.pdf) (ist auf dem Twingigconverter enthalten)
+* [SFP Transceiver Spezifikation](ftp://ftp.seagate.com/sff/INF-8074.PDF)
+* [SFP+ Transceiver Spezifikation](ftp://ftp.seagate.com/sff/SFF-8431.PDF)
+* [Spezifikation des Diagnoseinterface](ftp://ftp.seagate.com/sff/SFF-8472.PDF)
